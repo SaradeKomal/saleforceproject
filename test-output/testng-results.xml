@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-30T17:35:45 IST" name="Default suite" finished-at="2023-11-30T17:35:56 IST" duration-ms="10841">
+    <groups>
+    </groups>
+    <test started-at="2023-11-30T17:35:45 IST" name="Default test" finished-at="2023-11-30T17:35:56 IST" duration-ms="10841">
+      <class name="testcases.signuppagetestcase">
+        <test-method signature="signuppage()[pri:0, instance:testcases.signuppagetestcase@7ec7ffd3]" started-at="2023-11-30T17:35:45 IST" name="signuppage" finished-at="2023-11-30T17:35:56 IST" duration-ms="10772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signuppage -->
+      </class> <!-- testcases.signuppagetestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
