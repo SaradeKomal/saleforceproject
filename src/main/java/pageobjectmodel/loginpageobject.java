@@ -55,9 +55,7 @@ this.driver=driver2;	}
 	
 	
 	
-	public WebElement Enterpassword() {
-		return driver.findElement(password);
-	}
+	
 	public WebElement clicklogin() {
 		return driver.findElement(login);
 	}
